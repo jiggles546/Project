@@ -1,0 +1,21 @@
+html body{
+	background-color:#d1d4cd;
+	height:100%;
+}
+
+div.sidenav{
+	height:100%;
+}
+
+div.container-fluid{
+	height:100%;
+}
+
+hr{	
+	border: 1px solid #f00;
+}
+
+img{
+	float:right;
+}
+
